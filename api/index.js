@@ -37,7 +37,7 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser());
 const corsOptions ={
-    origin:'https://mernchat-mauve.vercel.app', 
+    origin:'https://mernchat-nityas-projects-b607d440.vercel.app', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
   } 
