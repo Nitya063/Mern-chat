@@ -51,7 +51,7 @@ Start the backend server and frontend development server by running the followin
    4. cd client
    5. yarn dev
       
-Visit `http://localhost:5173` in your browser to use SpiderChat locally using the valid credentials.
+Visit `http://localhost:5173` in your browser to use SpiderChat locally by logging in through the valid credentials.
 
 
 ![Screenshot (131)](https://github.com/Nitya063/Mern-chat/assets/66220305/d018a7fd-1397-4d3f-a810-bc4b42d1fc8c)
