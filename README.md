@@ -9,7 +9,7 @@ SpiderChat is a comprehensive social networking platform that facilitates seamle
 - Image sharing
 - Video sharing
 - User account creation and authentication
-- 
+
 
 ## Getting Started
 
