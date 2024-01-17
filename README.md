@@ -10,6 +10,16 @@ SpiderChat is a comprehensive social networking platform that facilitates seamle
 - Video sharing
 - User account creation and authentication
 
+For example purposes, the user credentials are hardcoded and only the following are accepted by the application:
+
+| Username | Password | 
+| -------- | -------- |
+| test1    | test     | 
+| test2    | test     |
+| spider   | spy      |
+
+
+
 
 ## Getting Started
 
