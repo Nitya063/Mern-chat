@@ -19,8 +19,7 @@ Follow these steps to get SpiderChat up and running on your local machine.
 ### Prerequisites
 
 - Node.js and npm installed
-- MongoDB installed and running
-- 
+- MongoDB installed and running 
 
 ### Installation
 
